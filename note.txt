@@ -1,3 +1,5 @@
 Git helps me track code changes.
 It is powerful for teamwork.
 I like learning Git.
+Git reset can undo commits.
+Git revert can fix mistakes safely.
