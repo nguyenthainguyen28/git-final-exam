@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:  
+- Tôi là Nguyễn Thái Nguyên  
+- Sinh ra tại Việt Nam
+- Đang học CNTT 
+- Mục tiêu nghề nghiệp kiếm tiền
+- Thích công nghệ và học hỏi 
+
+Sở thích:  
+- Đọc sách  
+- Lập trình  
+- Du lịch
+
+Kỹ năng:  
+- Python  
+- Git  
+- HTML/CSS
