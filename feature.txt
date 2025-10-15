@@ -1,0 +1,6 @@
+## Feature A
+- Tính năng: Quản lý danh sách học viên
+- Cho phép thêm, xóa, sửa học viên
+- Lưu dữ liệu tạm vào file JSON
+- Viết bằng Python
+- Mục tiêu: Thực hành Git nâng cao
